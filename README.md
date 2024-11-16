@@ -1,8 +1,8 @@
 # Arrhythmia Detection and other analysis 💟🩺
-<img src="https://media.discordapp.net/attachments/1223174231936995390/1286010161596596317/image.png?ex=66ec59cb&is=66eb084b&hm=881addfe899e7f03e8c072eb984ba3a31f2b499480adb7c6511b5c539b2832c7&=&format=webp&quality=lossless&width=1247&height=408">
+<img src="https://cdn.discordapp.com/attachments/1117028520313491526/1307351310512951407/image.png?ex=6739fd49&is=6738abc9&hm=1c2c2c587e8ff009d28c011a15320df39582657e6daf968908fe72916111b827&">
 <p align="center">📈10 sec ECG REPORT📈</p>
-<img src="https://media.discordapp.net/attachments/1223174231936995390/1286009422597853204/Figure_1.png?ex=66ec591b&is=66eb079b&hm=d3409a0e0372697e3a6c64859bde292441490363990a49ff5f1b8a879839a43c&=&format=webp&quality=lossless&width=1216&height=603">
-<img src="https://media.discordapp.net/attachments/1223174231936995390/1286022435396780154/image.png?ex=66ec6539&is=66eb13b9&hm=11a4f27e5b6c6fdbd9449165937f0c9e090e33685ab33403054f3af913880c90&=&format=webp&quality=lossless&width=1255&height=603">
+<img src="https://cdn.discordapp.com/attachments/1117028520313491526/1307353376098488460/Figure_1.png?ex=6739ff36&is=6738adb6&hm=1ca8ad4dec603fbbd67bd0d411e96b65b7dfb6ac0193d00990b493d0eeaea673&">
+
 <p align="center">📉OUTPUT AFTER ANALYSIS📉</p>
 
 ## ❣Overview❣
